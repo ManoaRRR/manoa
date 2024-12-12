@@ -1,11 +1,11 @@
 import React from 'react';
-import { FaFacebook, FaInstagram, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaFacebook, FaGithub, FaLinkedin } from "react-icons/fa";
 function Footer() {
   return (
     <footer className="bg-gray-900 text-white fixed bottom-0 w-full py-4">
       <div className="container mx-auto flex justify-center space-x-6">
         <a
-          href="https://facebook.com"
+          href="https://web.facebook.com/manoa.aronyavo.7"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-blue-500 transition duration-300"
@@ -14,16 +14,7 @@ function Footer() {
           <FaFacebook size={24} />
         </a>
         <a
-          href="https://instagram.com"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-gray-400 hover:text-pink-500 transition duration-300"
-          aria-label="Instagram"
-        >
-          <FaInstagram size={24} />
-        </a>
-        <a
-          href="https://github.com"
+          href="https://github.com/ManoaRRR"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-white transition duration-300"
@@ -32,7 +23,7 @@ function Footer() {
           <FaGithub size={24} />
         </a>
         <a
-          href="https://linkedin.com"
+          href="https://www.linkedin.com/in/manoa-rambolamanana-ba55b5252/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-400 hover:text-blue-700 transition duration-300"
