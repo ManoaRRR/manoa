@@ -88,10 +88,7 @@ function Home() {
           <h3 className="text-4xl font-bold text-white">3+</h3>
           <p className="text-gray-400">Projects done</p>
         </div>
-        <div>
-          <h3 className="text-4xl font-bold text-white">10+</h3>
-          <p className="text-gray-400">Happy Clients</p>
-        </div>
+        
       </div>
 
       
