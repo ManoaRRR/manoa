@@ -69,7 +69,7 @@ function Home() {
           Hire Me
         </Link>
         <a
-          href="https://drive.google.com/file/d/1ZS62JVRG4reOGPcXY5jXomilt_4wzqaK/view?usp=sharing"
+          href="https://drive.google.com/file/d/1O1zuL76vuVyiOenrFK5bcP9Mlua4KN64/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-transparent border-2 border-white text-white px-6 py-3 rounded-lg font-semibold hover:bg-gray-500 transition"
@@ -82,7 +82,7 @@ function Home() {
       <div className="flex space-x-8 mt-12">
         <div>
           <h3 className="text-4xl font-bold text-white">3</h3>
-          <p className="text-gray-400">Years</p>
+          <p className="text-gray-400">Years of study</p>
         </div>
         <div>
           <h3 className="text-4xl font-bold text-white">3+</h3>
