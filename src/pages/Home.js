@@ -69,7 +69,7 @@ function Home() {
           Hire Me
         </Link>
         <a
-          href="https://drive.google.com/file/d/1O1zuL76vuVyiOenrFK5bcP9Mlua4KN64/view?usp=sharing"
+          href="https://drive.google.com/file/d/1R_0t2mQNoDCP-e2TM5BDjBTaYPsVGN8Y/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-transparent border-2 border-white text-white px-6 py-3 rounded-lg font-semibold hover:bg-gray-500 transition"
